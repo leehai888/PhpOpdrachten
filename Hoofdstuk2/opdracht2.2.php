@@ -3,7 +3,7 @@
  * User: Steven
  * Date: 12-2-2020
  * Time: 12:06 PM
- * File: index.php
+ * File: opdracht2.2.php
  */
 ?>
 <!DOCTYPE html>
