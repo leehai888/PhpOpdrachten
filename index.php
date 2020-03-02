@@ -37,7 +37,7 @@
             Hoofdstuk 3
             <ul>
                 <li>
-                    <a href="">Opdracht 3.1</a>
+                    <a href="Hoofdstuk%203/opdracht%203.1.php">Opdracht 3.1</a>
                 </li>
                 <li>
                     <a href="">Opdracht 3.2</a>
