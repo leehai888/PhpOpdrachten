@@ -40,7 +40,10 @@
                     <a href="Hoofdstuk%203/opdracht%203.1.php">Opdracht 3.1</a>
                 </li>
                 <li>
-                    <a href="">Opdracht 3.2</a>
+                    <a href="Hoofdstuk%203/opdracht3.2.php">Opdracht 3.2</a>
+                </li>
+                <li>
+                    <a href="Hoofdstuk%203/opdracht3.3.php">Opdracht 3.3</a>
                 </li>
 
             </ul>
