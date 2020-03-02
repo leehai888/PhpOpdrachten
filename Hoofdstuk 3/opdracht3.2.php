@@ -56,7 +56,7 @@ else
 <br>
 <?php
 $countryName = "Nederland";
-$currentAge = 21;
+$currentAge = 16;
 
 
 echo("<p>Je woont in ". $countryName . " en je bent " . $currentAge . " jaar oud.</p>");
