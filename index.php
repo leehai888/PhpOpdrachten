@@ -25,7 +25,7 @@
 <aside>
     <h2>Menu</h2>
     <ul>
-        <li>Hoofdstuk 2
+            Hoofdstuk 2
             <ul>
                 <li>
                     <a href="Hoofdstuk2/opdracht2.1.php">Opdracht 2.1</a>
@@ -33,6 +33,16 @@
                 <li>
                     <a href="Hoofdstuk2/opdracht2.2.php">Opdracht 2.2</a>
                 </li>
+            </ul>
+            Hoofdstuk 3
+            <ul>
+                <li>
+                    <a href="">Opdracht 3.1</a>
+                </li>
+                <li>
+                    <a href="">Opdracht 3.2</a>
+                </li>
+
             </ul>
         </li>
     </ul>
