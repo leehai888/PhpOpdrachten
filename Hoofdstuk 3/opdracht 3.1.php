@@ -47,7 +47,6 @@
                 maximaal 1 keer per winter gehouden.";
     echo ("<p>$verhaal2</p>");
     ?>
-</main>
     <button><a href="../index.php">Home</a></button>
 </body>
 </html>
