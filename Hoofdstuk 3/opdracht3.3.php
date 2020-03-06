@@ -19,6 +19,7 @@
     <link href="../stylesheet.css" type="text/css" rel="stylesheet">
 
 </head>
+<body>
 <header>
     <?php include "../Inlcude/header.php"?>
 </header>
@@ -27,4 +28,5 @@
 
 </footer>
 <button><a href="../index.php">Home</a></button>
-<body>
+</body>
+</html>
