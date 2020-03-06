@@ -116,6 +116,6 @@ else if($countryName == "Zweden" && $currentAge < 18)
 
 
 ?>
-</main>
+
 <button><a href="../index.php">Home</a></button>
 </body>

@@ -1,32 +1,21 @@
 <?php
 /**
  * User: Steven Lee
- * Date: 2-03-2020
- * Time: 11:20 PM
- * File: opdracht3.3.php
+ * Date: 1-03-2020
+ * Time: 14:20 PM
+ * File: opdracht3.2.php
  */
 ?>
-<!DOCTYPE html>
-<html lang="nl">
-<head>
-    <title>
 
-    </title>
+<?php
+    include "../Inlcude/header.php"
+?>
 
-    <meta name="description" content=" ">
-    <meta name="keywords" content=" ">
-    <meta charset="utf-8">
-    <link href="../stylesheet.css" type="text/css" rel="stylesheet">
+<?php
 
-</head>
-<body>
-<header>
-    <?php include "../Inlcude/header.php"?>
-</header>
-<footer>
-    <?php include "../Inlcude/Footer.php"?>
+?>
 
-</footer>
-<button><a href="../index.php">Home</a></button>
-</body>
-</html>
+
+<?php
+    include "../Inlcude/Footer.php"
+?>
