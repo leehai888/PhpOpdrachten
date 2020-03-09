@@ -26,7 +26,7 @@
     <h2>Menu</h2>
     <ul>
         <li>
-            Hoofdstuk 2
+            <h3>Hoofdstuk 2</h3>
             <ul>
                 <li>
                     <a href="Hoofdstuk2/opdracht2.1.php">Opdracht 2.1</a>
@@ -35,7 +35,9 @@
                     <a href="Hoofdstuk2/opdracht2.2.php">Opdracht 2.2</a>
                 </li>
             </ul>
-            Hoofdstuk 3
+
+            <h3>Hoofdstuk 3</h3>
+
             <ul>
                 <li>
                     <a href="Hoofdstuk%203/opdracht%203.1.php">Opdracht 3.1</a>
@@ -46,8 +48,10 @@
                 <li>
                     <a href="Hoofdstuk%203/opdracht3.3.php">Opdracht 3.3</a>
                 </li>
-            </ul
-                    hoofdstuk 4
+            </ul>
+
+            <h3>hoofdstuk 4</h3>
+
             <ul>
                 <li>
                     <a href="Hoofdstuk%204/opdracht%204.1.php">Opdracht 4.1</a>
