@@ -19,7 +19,7 @@ else if ($hour >= 17 && $hour <= 0){
     $moment = 'Goedenavond';
 }
 
-echo $moment . 'Steven Lee &copy;' . $year;
+echo $moment . ' Steven Lee &copy;' . $year;
 ?>
 
 </body>
