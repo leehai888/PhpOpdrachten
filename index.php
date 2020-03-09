@@ -46,18 +46,16 @@
                 <li>
                     <a href="Hoofdstuk%203/opdracht3.3.php">Opdracht 3.3</a>
                 </li>
-
             </ul
-                Hoofdstuk 4
-                <ul>
-                    <li>
-                        <a href="">Opdracht 4.1</a>
-                    </li>
-                    <li>
-                        <a href="">Opdracht 4.2</a>
-                    </li>
-
-                </ul>
+                    hoofdstuk 4
+            <ul>
+                <li>
+                    <a href="Hoofdstuk%204/opdracht%204.1.php">Opdracht 4.1</a>
+                </li>
+                <li>
+                    <a href="Hoofdstuk%204/opdracht4.2.php">Opdracht 4.2</a>
+                </li>
+            </ul>
         </li>
     </ul>
 </aside>
