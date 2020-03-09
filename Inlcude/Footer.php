@@ -1,5 +1,6 @@
 <button><a href="../index.php">Home</a></button>
-
+<br>
+<br>
 <?php
 date_default_timezone_set("Europe/Amsterdam");
 $hour = date("H");
