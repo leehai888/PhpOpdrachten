@@ -1,10 +1,25 @@
 <button><a href="../index.php">Home</a></button>
 
-// echo van data naar gebruiker
 <?php
-include("Inlcude/Variabelen.php");
-echo("<div class='footer'>");
-    echo("&copy; $year ");
-    echo("$name</div>");
+date_default_timezone_set("Europe/Amsterdam");
+$hour = date("H");
+$year = date("Y");
+$moment ='';
+
+if($hour >= 0 && $hour <= 5){
+    $moment = 'Goedennacht';
+}
+else if ($hour >= 5 && $hour <= 12){
+    $moment = 'Goedenochtend';
+}
+else if($hour >= 12 && $hour <= 17){
+    $moment = 'Goedenmiddag';
+}
+else if ($hour >= 17 && $hour <= 0){
+    $moment = 'Goedenavond';
+}
+
+echo $moment . 'Steven Lee &copy;' . $year;
 ?>
+
 </body>
