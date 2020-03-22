@@ -60,6 +60,17 @@
                     <a href="Hoofdstuk%204/opdracht4.2.php">Opdracht 4.2</a>
                 </li>
             </ul>
+
+            <h3>hoofdstuk 5</h3>
+
+            <ul>
+                <li>
+                    <a href="Hoofdstuk%204/opdracht%204.1.php">Opdracht 5.1</a>
+                </li>
+                <li>
+                    <a href="">coming soon</a>
+                </li>
+            </ul>
         </li>
     </ul>
 </aside>
