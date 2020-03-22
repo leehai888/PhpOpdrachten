@@ -65,7 +65,7 @@
 
             <ul>
                 <li>
-                    <a href="Hoofdstuk%204/opdracht%204.1.php">Opdracht 5.1</a>
+                    <a href="Hoofdstuk5/opdracht%205.1.php">Opdracht 5.1</a>
                 </li>
                 <li>
                     <a href="">coming soon</a>
