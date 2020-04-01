@@ -68,7 +68,7 @@
                     <a href="Hoofdstuk5/opdracht%205.1.php">Opdracht 5.1</a>
                 </li>
                 <li>
-                    <a href="">coming soon</a>
+                    <a href="Hoofdstuk5/opdracht5.2input.php">Opdracht 5.2</a>
                 </li>
             </ul>
         </li>
