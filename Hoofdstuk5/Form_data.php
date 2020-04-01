@@ -9,7 +9,7 @@
 <table>
     <tr>
         <td>bedrijfsnaam:</td>
-        <td><?php echo $_GET["bedrijfsNaam"]; ?>.<br /></td>
+        <td><?php echo $_GET["bedrijfsnaam"]; ?>.<br /></td>
     </tr>
     <tr>
         <td>voornamen:</td>
@@ -17,18 +17,22 @@
     </tr>
     <tr>
         <td>achternaam:</td>
-        <td><?php echo $_GET["achterNamen"]; ?>.<br /></td>
+        <td><?php echo $_GET["achternaam"]; ?>.<br /></td>
     </tr>
     <tr>
-        <td>tell nummer:</td>
-        <td><?php echo $_GET["Nummer"]; ?>.<br /></td>
+        <td>tellnummer:</td>
+        <td><?php echo $_GET["tellnummer"]; ?>.<br /></td>
     </tr>
     <tr>
-        <td>E-mail adres:</td>
-        <td><?php echo $_GET["Mail"]; ?>.<br /></td>
+        <td>E-mail:</td>
+        <td><?php echo $_GET["E-mail"]; ?>.<br /></td>
     </tr>
     <tr>
         <td>toevoeging:</td>
-        <td><?php echo $_GET["Bericht"]; ?>.<br /></td>
+        <td><?php echo $_GET["toevoeging"]; ?>.<br /></td>
     </tr>
 </table>
+
+<?php
+include "../../Include/footer.php"
+?>

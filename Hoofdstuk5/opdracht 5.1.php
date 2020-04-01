@@ -24,25 +24,23 @@ include "../Inlcude/header.php"
     <div class="Test">
         <form action="Form_data.php" method="get">
             <label>bedrijfsnaam: </label><br>
-            <input name="bedrijfsNaam" type="text"><br><br>
-            <label>voornamen: </label><br>
-            <input name="voorNamen" type="text"><br><br>
-            <label>achternaam: </label><br>
-            <input name="achterNamen" type="text"><br><br>
-            <label>tell nummer: </label><br>
+            <input name="bedrijfsnaam" type="text"><br><br>
+            <label>Voornaam: </label><br>
+            <input name="Voornaam" type="text"><br><br>
+            <label>Achternaam: </label><br>
+            <input name="Achternaam" type="text"><br><br>
+            <label>Nummer: </label><br>
             <input name="Nummer" type="text"><br><br>
-            <label>E-mail adres: </label><br>
-            <input name="Mail" type="text"><br><br>
-            <label>toevoeging: </label><br>
-            <input name="Bericht" type="text"><br><br>
-            <input type="submit" name="Verzend" value="verzend">
+            <label>E-mail: </label><br>
+            <input name="E-mail" type="text"><br><br>
+            <label>Toevoeging: </label><br>
+            <input name="Toevoeging" type="text"><br><br>
+            <input type="submit" name="Toevoeging" value="verzenden">
         </form>
     </div>
 
-
-
-    <br><br>
-
+    <br>
+    <br>
 
 <?php
 include "../Inlcude/Footer.php"
