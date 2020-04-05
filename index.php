@@ -70,6 +70,9 @@
                 <li>
                     <a href="Hoofdstuk5/opdracht5.2input.php">Opdracht 5.2</a>
                 </li>
+                <li>
+                    <a href="Hoofdstuk5/opdracht5.3.php">Opdracht 5.3</a>
+                </li>
             </ul>
         </li>
     </ul>

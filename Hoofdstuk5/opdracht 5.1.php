@@ -10,9 +10,10 @@
 <?php
 include "../Inlcude/header.php"
 ?>
-    <?php
-    include "Form_data.php";
+<?php
+    include "Hoofdstuk5/Form_data.php";
     ?>
+
     <br><br>
     <h1>Restaria Kees Kroket</h1>
     <p>Visserstraat 12</p>
