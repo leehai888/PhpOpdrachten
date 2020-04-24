@@ -12,7 +12,7 @@ include "../Inlcude/header.php"
 ?>
 
 
-    <h2 xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html"> Uitschrijfformulier KW1C </h2> <hr>
+
 
 
     <h1>Uitschrijfformulier KW1C</h1>
