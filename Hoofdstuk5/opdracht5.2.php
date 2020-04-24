@@ -26,7 +26,7 @@ include "../Inlcude/header.php"
 
         <tr>
             <th>Datum van uitschrijving</th>
-            <td><?php echo $_GET["DaumUitschrijving"]; ?></td>
+            <td><?php echo $_GET["DatumUitschrijving"]; ?></td>
         </tr>
 
         <tr>

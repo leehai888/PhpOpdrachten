@@ -11,7 +11,7 @@
 include "../Inlcude/header.php"
 ?>
 <?php
-    include "Hoofdstuk5/Form_data.php";
+    include "Form_data.php";
     ?>
 
     <br><br>

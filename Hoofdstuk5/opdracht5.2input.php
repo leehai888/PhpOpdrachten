@@ -11,13 +11,17 @@
 include "../Inlcude/header.php"
 ?>
 
+
+    <h2 xmlns="http://www.w3.org/1999/html" xmlns="http://www.w3.org/1999/html"> Uitschrijfformulier KW1C </h2> <hr>
+
+
     <h1>Uitschrijfformulier KW1C</h1>
     <hr>
     <form action="Hoofdstuk5/opdracht5.2.php" method="get">
         <label>Voor en achternaam</label>
         <input name="Voor-Achternaam" type="text"><br>
         <br>
-        <label>Studentennummer</label>
+        <label>Studentennummer
         <input name="Studentennummer" type=number><br>
         <br>
         <label>Datum van uitschrijving</label>
