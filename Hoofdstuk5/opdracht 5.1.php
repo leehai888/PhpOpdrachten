@@ -21,7 +21,7 @@ include "../Inlcude/header.php"
     <p>info@restariaKeesKroket.nnl</p><br>
 
     <h3>Taak1</h3>
-    <div class="Test">
+// dit is een form waar je data kan invullen meeste hebben type text somigge hebben andere type
         <form action="Form_data.php" method="get">
             <label>bedrijfsnaam: </label><br>
             <input name="bedrijfsnaam" type="text"><br><br>
@@ -30,14 +30,13 @@ include "../Inlcude/header.php"
             <label>Achternaam: </label><br>
             <input name="Achternaam" type="text"><br><br>
             <label>Nummer: </label><br>
-            <input name="Nummer" type="text"><br><br>
+            <input name="Nummer" type="number"><br><br>
             <label>E-mail: </label><br>
-            <input name="E-mail" type="text"><br><br>
+            <input name="E-mail" type="email"><br><br>
             <label>Toevoeging: </label><br>
             <input name="Toevoeging" type="text"><br><br>
-            <input type="submit" name="Toevoeging" value="verzenden">
+            <input type="submit" name="Toevoeging" value="verzend">
         </form>
-    </div>
 
     <br>
     <br>
