@@ -22,5 +22,15 @@ else if ($hour >= 17 && $hour <= 0){
 
 echo $moment . ' Steven Lee &copy;' . $year;
 ?>
+<?php
+session_start();
 
-</body>
+if (isset($_SESSION['username'])) {
+    $bezoeker = $_SESSION['username']. "&nbsp;<a
+href='../Hoofdstuk6/Logout.php'>Logout</a>";
+}
+else {
+    $bezoeker = "onbekende bezoeker". "&nbsp;<a
+href='../Hoofdstuk6/Opd6.1.php'>Login</a>";
+}
+?>

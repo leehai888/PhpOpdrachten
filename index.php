@@ -80,6 +80,16 @@
                     <a href="Hoofdstuk5/opdracht5.3.php">Opdracht 5.3</a>
                 </li>
             </ul>
+            <h3>Hoofdstuk 6</h3>
+
+            <ul>
+                <li>
+                    <a href="Hoofdstuk6/Opd6.1.php">Opdracht 6.1</a>
+                </li>
+
+
+
+            </ul>
         </li>
     </ul>
 </aside>
