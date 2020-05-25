@@ -86,9 +86,9 @@
                 <li>
                     <a href="Hoofdstuk6/Opd6.1.php">Opdracht 6.1</a>
                 </li>
-
-
-
+                <li>
+                    <a href="Hoofdstuk6/Opd6.2/Opd6.2.php">Opdracht 6.2</a>
+                </li>
             </ul>
         </li>
     </ul>
