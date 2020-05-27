@@ -5,21 +5,11 @@
  * Time: 14:20 PM
  * File: opdracht6.1.php
  */
-?>
 
-<?php
-include "../Inlcude/header.php"
-?>
-
-<?php
 session_start();
-
 session_destroy();
 
 header("location: Opd6.1.php");
 ?>
 
 
-<?php
-include "../Inlcude/Footer.php"
-?>

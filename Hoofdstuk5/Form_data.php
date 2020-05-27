@@ -7,6 +7,10 @@
  */
 ?>
 <?php
+include "../Inlcude/header.php";
+?>
+
+<?php
 $tableBegin = "<table>";
 $tableEnd = "</table>";
 //hier haal ik de gegevens van wat er ingevuld is op opdracht 5.1.php op via methode get en echo het hierdoor is het zichtbaar op deze page

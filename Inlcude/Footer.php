@@ -1,6 +1,7 @@
 <button><a href="../index.php">Home</a></button>
 <br>
 <br>
+
 <?php
 date_default_timezone_set("Europe/Amsterdam");
 $hour = date("H");
@@ -21,10 +22,12 @@ else if ($hour >= 17 && $hour <= 0){
 }
 
 echo $moment . ' Steven Lee &copy;' . $year;
+
+
 ?>
 <?php
-session_start();
 
+print_r($_SESSION);
 if (isset($_SESSION['username'])) {
     $bezoeker = $_SESSION['username']. "&nbsp;<a
 href='../Hoofdstuk6/Logout.php'>Logout</a>";
@@ -33,4 +36,9 @@ else {
     $bezoeker = "onbekende bezoeker". "&nbsp;<a
 href='../Hoofdstuk6/Opd6.1.php'>Login</a>";
 }
+echo  $bezoeker;
+
 ?>
+
+</body>
+</html>

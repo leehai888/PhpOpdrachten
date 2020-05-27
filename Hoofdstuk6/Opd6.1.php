@@ -5,9 +5,7 @@
  * Time: 14:20 PM
  * File: opdracht6.1.php
  */
-?>
 
-<?php
 include "../Inlcude/header.php"
 ?>
 
@@ -25,8 +23,10 @@ include "../Inlcude/header.php"
 
 
 <?php
-include "logincheck.php";
-echo $faultyMsg
+if (isset($faultyMsg))
+{
+    echo $faultyMsg;
+}
 ?>
 
 
