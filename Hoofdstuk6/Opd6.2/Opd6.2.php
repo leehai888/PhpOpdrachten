@@ -17,19 +17,19 @@
             <label>
                 <input type="radio" onchange="document.getElementById('gameFrm').submit();" name="keuze" value="steen">
             </label>steen
-            <img src="steen.jpg" alt="foto">
+            <img src="steen.jpg" alt="Steen">
         </div>
         <div class="float">
             <label>
             <input type="radio" onchange="document.getElementById('gameFrm').submit();" name="keuze" value="papier">papier
             </label>
-                <img src="papier.jpg" alt="foto">
+                <img src="papier.jpg" alt="Papier">
         </div>
         <div class="float">
             <label>
             <input type="radio" onchange="document.getElementById('gameFrm').submit();" name="keuze" value="schaar">schaar
             </label>
-                <img src="schaar.jpg" alt=foto">
+                <img src="schaar.jpg" alt="Schaar">
         </div>
     </form>
 <?php
