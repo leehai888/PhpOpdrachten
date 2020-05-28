@@ -90,6 +90,12 @@
                     <a href="Hoofdstuk6/Opd6.2/Opd6.2.php">Opdracht 6.2</a>
                 </li>
             </ul>
+            <h3>Hoofdstuk 7</h3>
+            <ul>
+                <li>
+                    <a href="Hoofdstuk7/Opd7.1.php">opdracht 7.1</a>
+                </li>
+            </ul>
         </li>
     </ul>
 </aside>
