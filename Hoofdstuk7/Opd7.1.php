@@ -54,6 +54,8 @@ foreach($aJokes as $grap) {
 }
 
 ?>
+<br>
+<br>
 
 
 <?php
