@@ -96,7 +96,7 @@
                     <a href="Hoofdstuk7/Opd7.1.php">opdracht 7.1</a>
                 </li>
                 <li>
-                    <a href="Hoofdstuk7/Opd%207.2.php.php">opdracht 7.2</a>
+                    <a href="Hoofdstuk7/Opd%207.2.php">opdracht 7.2</a>
                 </li>
             </ul>
         </li>
