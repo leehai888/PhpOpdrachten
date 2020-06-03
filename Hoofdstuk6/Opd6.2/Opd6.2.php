@@ -3,7 +3,7 @@
  * User: Steven Lee
  * Date: 1-03-2020
  * Time: 14:20 PM
- * File: opdracht3.2.php
+ * File: opdracht6.2.php
  */
 ?>
 
@@ -38,12 +38,12 @@ if (isset($_SESSION['computer']) == false) {
     $_SESSION['player'] = 0;
 }
 if (isset($_GET['keuze'])) {
-    echo "Jij koos: <img src='Opd6.2{$_GET['keuze']}.jpg'> {$_GET['keuze']} <br>";
+    echo "Jij koos: <img src='../Opd6.2/{$_GET['keuze']}.jpg'> {$_GET['keuze']} <br>";
     $persoonkeuze = $_GET['keuze'];
     $opties = array("steen","papier","schaar");
     $computerkeuzegetal = rand(0,2);
     $computerkeuze = $opties[$computerkeuzegetal];
-    echo "&nbsp;&nbsp;De computer koos: <img src='Opd6.2{$computerkeuze}.jpg'> $computerkeuze <br>";
+    echo "&nbsp;&nbsp;De computer koos: <img src='../Opd6.2/{$computerkeuze}.jpg'> $computerkeuze <br>";
     //schaar > papier
     if ($computerkeuze == 'schaar' && $persoonkeuze == 'papier'){
         $_SESSION['computer'] +=1;
