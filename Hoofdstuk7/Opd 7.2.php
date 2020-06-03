@@ -24,29 +24,6 @@ catch (PDOException $e)
     echo $e->getMessage();
     die();
 }
-$sql = 'SELECT * FROM joke';
-$result = $pdo->query($sql);
-
-while($row=$result->fetch(PDO::FETCH_ASSOC))
-{
-    echo "<br>" . $row['id'] . $row['joketext'] . $row['jokeclou'] . $row['jokedate'] . "<br>";
-    $test = $row['id'];
-}
-
-?>
-
-<?php
-try
-{
-    $pdo->exec("INSERT INTO joke VALUES ('On my wedding day, my mom told my bride, : ','“No refunds, no exchanges on sale items.” .','2020-2-6')");
-    $pdo->exec("DELETE FROM joke WHERE id > 6");
-}
-catch(PDOException $e)
-{
-    echo $e->getMessage();
-    die();
-}
-
 
 ?>
 <?php
